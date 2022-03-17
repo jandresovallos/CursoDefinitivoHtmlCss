@@ -1,3 +1,4 @@
 #Ignorar archivos .webp
 *.webp
-
+#Ignorar archivos .pdf
+*.pdf
